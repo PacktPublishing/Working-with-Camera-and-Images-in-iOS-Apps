@@ -41,3 +41,7 @@ Ubuntu 14.04, 16.04, 16.10
 
 * [Setup Your Own Asterisk VoIP Server with Android, iOS & Windows Apps [Video]](https://www.packtpub.com/application-development/setup-your-own-asterisk-voip-server-android-ios-windows-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781838829971)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788291330">https://packt.link/free-ebook/9781788291330 </a> </p>
